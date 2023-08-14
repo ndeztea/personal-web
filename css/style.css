@@ -1,0 +1,6 @@
+@import url('./fonts/index.css');
+@import url('./menu/index.css');
+
+body {
+  background-color: #fd6c6c;
+}
